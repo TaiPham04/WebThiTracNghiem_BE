@@ -19,7 +19,8 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['http://localhost:5173'],
+    'allowed_origins' => ['http://localhost:5173','https://phamhuutai.io.vn',
+    'https://www.phamhuutai.io.vn',],
 
     'allowed_origins_patterns' => [],
 
